@@ -1,2 +1,2 @@
 # Define the variable board below.
-"board" = local_variable_board
+local_variable_board = "board"
