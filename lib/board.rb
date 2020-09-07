@@ -1,2 +1,2 @@
 # Define the variable board below.
-local_variable_board = "board"
+board = "tic tac toe"
