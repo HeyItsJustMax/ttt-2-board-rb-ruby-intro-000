@@ -1,2 +1,2 @@
 # Define the variable board below.
-variable = 'board'
+tic_tac_toe_board = board
